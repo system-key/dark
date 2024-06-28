@@ -1,0 +1,3 @@
+echo 'export DARK=hacker7b5l32rvknv255xzmfupsztsowwbmkxpt6rrdrsrrzotoeipid.onion' >> /root/.bashrc
+clear
+echo 'source /root/.bashrc'
